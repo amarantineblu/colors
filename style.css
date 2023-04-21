@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: #9717b4;
+}
+
+h3 {
+    color: rgb(8, 148, 6);
+}
+
+h4 {
+    color: hsl(30%, 50%, 75%);
+}
+
+div {
+    background-color: rgba(200, 40, 74, .5);
+}
